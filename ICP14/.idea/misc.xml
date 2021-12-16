@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/reddy/Downloads/Mobile ICP-14/Notification/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/reddy/Downloads/Mobile ICP-14/Notification/app/src/main/res/layout/activity_alert_details.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/reddy/Downloads/Mobile ICP-14/Notification/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
